@@ -1,1 +1,2 @@
-The WellSpot app does not collect any information. It reads files that you supply from emails or cloud file services. The app parses the file you have supplied and this data does not leave the device except if you make a backup of your device e.g. using iCloud backup.
+The ElSpot app does not collect any information. 
+The app contacts a 3rd party API that may log your IP address. Other than this, no data does not leave the device except if you make a backup of your device e.g. using iCloud backup.
