@@ -1,2 +1,6 @@
-The ElSpot app does not collect any information. 
+ElSpot app'en samler ikke personlig information.
+ElSpot forbinder til en tredjeparts API, der. uligvis logger din IP adresse. udover dette er der ingem data der forlader dit device, med mindre du laver em sikkerhedskopi, f.eks. til iCloud.
+
+
+The ElSpot app does not collect any personal information. 
 The app contacts a 3rd party API that may log your IP address. Other than this, no data does not leave the device except if you make a backup of your device e.g. using iCloud backup.
